@@ -1,0 +1,27 @@
+/* color scheme_light to dark, v1.0, for Blue Topaz theme */
+
+.theme-light {
+  /*titles*/
+  --h1-color: #8fd50e;
+  --h2-color: #15b80f;
+  --h3-color: #11bbbb;
+  --h4-color: #2d88ff;
+  --h5-color: #8f7bff;
+  --h6-color: #ca6fff;
+
+  /*day planner*/
+  --day-planner-pie: #f19c1c;
+  --day-planner-line: #dfcf77;
+  --day-planner-dot: #dfcf77;
+  --day-planner-item-hover: #053c85;
+  --event-item-color1: #283493bb;
+  --event-item-color2: #1565c0bb;
+  --event-item-color3: #00838fbb;
+  --event-item-color4: #2e7d32bb;
+  --event-item-color5: #9e9d24bb;
+  --event-item-color6: #ff8f00bb;
+  --event-item-color7: #d84315bb;
+  --event-item-color8: #c62828bb;
+  --event-item-color9: #ad1457bb;
+  --event-item-color10:#6a1b9abb;
+}

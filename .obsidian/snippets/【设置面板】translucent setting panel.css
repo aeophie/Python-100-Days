@@ -1,0 +1,22 @@
+/* translucent setting panel */
+
+.theme-dark {
+  --content-1: #5b5b5b00;
+  --background-secondary: #4444449b;
+}
+
+.theme-light {
+  --content-1: #ffffff00;
+  --background-secondary: #ffffffc2;
+}
+
+.vertical-tab-content {
+  background: transparent;
+}
+
+.setting-item,
+.modal.mod-settings .vertical-tab-content-container,
+.modal.mod-settings .modal-content {
+  background: var(--content-1);
+}
+

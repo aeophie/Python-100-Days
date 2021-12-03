@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "1ecb7cd14007b915",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc47816a7425fac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day01-15/01.初识Python.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3062b2d3589223b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cefd83da01e2027d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979ec23a713fece1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5e2f10fe7286c73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c87138dcde7f1fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dde965e021e6d01a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d13025d4d5a7814",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day01-15/01.初识Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c1516705da657ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cdc47816a7425fac",
+  "lastOpenFiles": [
+    "Day01-15/01.初识Python.md",
+    "Day01-15/03.分支结构.md",
+    "Day01-15/02.语言元素.md"
+  ]
+}

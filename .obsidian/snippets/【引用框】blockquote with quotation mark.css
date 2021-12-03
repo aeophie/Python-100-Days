@@ -1,0 +1,28 @@
+/* blockquote with quotation mark, for Blue Topaz */
+
+.markdown-preview-view blockquote {
+  padding-left: 35px;
+  padding-right: 10px;
+  margin-inline-start: 1%;
+  margin-inline-end: 1%;
+  border-left-width: 0px;
+}
+
+.markdown-preview-view blockquote p {
+  position: relative;
+  margin-left: 5px;
+  margin-right: 0px;
+  font-size: var(--font-size-preview-blockquote);
+}
+
+.markdown-preview-view blockquote p:first-of-type::before {
+  content: '“';
+  font-weight: 700;
+  font-size: 60px;
+  font-family: Arial;
+  color: var(--text-accent);
+  position: absolute;
+  top: -23px;
+  left: -0.6em;
+}
+
